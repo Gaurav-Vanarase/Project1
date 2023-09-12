@@ -1,0 +1,11 @@
+.product-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  margin: 1rem 0;
+  background-color: #fcb5b5;
+  border-radius: 5px;
+  padding: 15px 20px;
+  list-style-type: none;
+}
